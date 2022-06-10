@@ -1,0 +1,1 @@
+powershell "start \"Run Compiler.bat\" -WindowStyle Hidden"

@@ -1,0 +1,7 @@
+GetTMVersShort
+GetTMVersLong
+GetTMCompile
+OnSceneChange
+OnBoot
+OnStartMelee
+OnFileLoad

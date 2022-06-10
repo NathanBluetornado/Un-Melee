@@ -1,0 +1,11 @@
+This file contains each HUD element used in Un-Melee (mostly meters)
+
+They're hooked into the stage via the code, and controlled there too.
+
+All of these files have their own matanims (material animations) to show how full the meters are.
+The only exceptions are "Random_Scene_Models" because it's just the dice indicator, and gear when that is added.
+These remain static additions to the hud so they don't need their own animations.
+
+The Meters.dat file is absolutely necessary to this mod. In older (unreleased) versions, these meters would be 
+implemented within the individual stage files themselves, making the mod truly portable, but to allow for more 
+storage and a smoother connection that isn't the case anymore.
